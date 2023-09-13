@@ -1,0 +1,15 @@
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\bin\Debug\net6.0\Johnda_Kalkulačka.exe
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\bin\Debug\net6.0\Johnda_Kalkulačka.deps.json
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\bin\Debug\net6.0\Johnda_Kalkulačka.runtimeconfig.json
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\bin\Debug\net6.0\Johnda_Kalkulačka.dll
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\bin\Debug\net6.0\Johnda_Kalkulačka.pdb
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.csproj.AssemblyReference.cache
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.AssemblyInfoInputs.cache
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.AssemblyInfo.cs
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.dll
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\refint\Johnda_Kalkulačka.dll
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.pdb
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\Johnda_Kalkulačka.genruntimeconfig.cache
+C:\Users\Office\source\repos\Johnda_Kalkulačka\Johnda_Kalkulačka\obj\Debug\net6.0\ref\Johnda_Kalkulačka.dll
